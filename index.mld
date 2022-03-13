@@ -1,3 +1,4 @@
+{0 Odoc_bug  }
 
 
 
@@ -7,4 +8,6 @@ Odoc has a strange behaviour. It :
 - preserves the links when the modules are inlined
 
 
-The HTML rendered [here](http://xquant.net/odoc_bug/odoc_pb/index.html) shows the problem : ./_build/default/_doc/_html/
+The HTML generated {{:Odoc_pb/index.html}here} 
+shows the problem : ./_build/default/_doc/_html/
+
